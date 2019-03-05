@@ -1,0 +1,4 @@
+/home/kun/下载/assessment_2018_2019/assessment_2017_2018/build/CMakeFiles/rebuild_cache.dir
+/home/kun/下载/assessment_2018_2019/assessment_2017_2018/build/CMakeFiles/foraging_loop_functions.dir
+/home/kun/下载/assessment_2018_2019/assessment_2017_2018/build/CMakeFiles/edit_cache.dir
+/home/kun/下载/assessment_2018_2019/assessment_2017_2018/build/CMakeFiles/foraging_loop_functions_autogen.dir
